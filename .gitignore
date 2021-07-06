@@ -1,2 +1,3 @@
-genbank
-dump.json
+genomes
+__pycache__
+tokenizer-bigband.json
